@@ -1,0 +1,6 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Country
+201,CA-2018-105074,24/06/2018,29/06/2018,Standard Class,MB-17305,Maria Bertelson,Consumer,Akron,Ohio,44312,East,OFF-PA-10002666,Office Supplies,Paper,Southworth 25% Cotton Linen-Finish Paper & Envelopes,21.744,DN
+202,CA-2015-133690,3/8/2015,5/8/2015,First Class,BS-11755,Bruce Stewart,Consumer,Denver,Colorado,80219,West,FUR-TA-10004289,Furniture,Tables,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,218.75,DN
+203,CA-2015-133690,3/8/2015,5/8/2015,First Class,BS-11755,Bruce Stewart,Consumer,Denver,Colorado,80219,West,OFF-AP-10003622,Office Supplies,Appliances,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",2.6,DN
+204,US-2018-116701,17/12/2018,21/12/2018,Second Class,LC-17140,Logan Currie,Consumer,Dallas,Texas,75220,Central,OFF-AP-10003217,Office Supplies,Appliances,Eureka Sanitaire  Commercial Upright,66.284,DN
+205,CA-2018-126382,3/6/2018,7/6/2018,Standard Class,HK-14890,Heather Kirkland,Corporate,Franklin,Tennessee,37064,South,FUR-FU-10002960,Furniture,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",35.168,DN
