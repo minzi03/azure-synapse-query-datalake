@@ -1,2 +1,5 @@
+AzureSynapseAnalytics_demo:
 https://drive.google.com/file/d/1Tbly6zjcz4Ea-Sa_YpiloRf2gGzGPkAH/view?usp=sharing
-https://drive.google.com/file/d/1kY4Y-zR-F5lWoSl32VEjB0V4azak3Bnk/view?usp=drive_link
+
+ETL_DataFactory_demo:
+https://drive.google.com/file/d/1kY4Y-zR-F5lWoSl32VEjB0V4azak3Bnk/view?usp=sharing
